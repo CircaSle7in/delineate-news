@@ -31,11 +31,12 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         {/* Wordmark Logo */}
         <Link to="/" className="shrink-0">
-          <img
-            src="/images/delineate-wordmark.png"
-            alt="Delineate"
-            className="h-6 w-auto"
-          />
+          <span
+            className="font-playfair text-xl font-medium tracking-wide text-foreground"
+            style={{ fontVariant: 'small-caps' }}
+          >
+            Delineate
+          </span>
         </Link>
 
         {/* Desktop Navigation */}
