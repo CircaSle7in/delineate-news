@@ -32,7 +32,7 @@ const Header = () => {
         {/* Wordmark Logo */}
         <Link to="/" className="shrink-0">
           <span
-            className="font-playfair text-xl font-medium tracking-wide text-foreground"
+            className="font-playfair text-2xl md:text-3xl font-semibold tracking-wide text-foreground"
             style={{ fontVariant: 'small-caps' }}
           >
             Delineate
