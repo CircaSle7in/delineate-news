@@ -1,0 +1,477 @@
+{
+  "topic": "ice-minneapolis-raid",
+  "extractedAt": "2025-01-12",
+  "claims": [
+    {
+      "id": "claim_001",
+      "claim": "Renee Nicole Good, 37, a US citizen, was shot and killed by ICE agent Jonathan Ross on January 7, 2025 in south Minneapolis",
+      "sourceType": "official_statement",
+      "attribution": "Minneapolis city officials, multiple news sources",
+      "sourceIds": ["src_001", "src_003", "src_027", "src_030"],
+      "primarySourceUrl": null,
+      "verificationStatus": "verified",
+      "contradictingClaimIds": [],
+      "context": "Basic facts about the incident are not disputed by any party",
+      "extractedFrom": [
+        {
+          "sourceId": "src_027",
+          "quote": "Renee Nicole Macklin Good, a 37-year-old American woman, was fatally shot by United States Immigration and Customs Enforcement (ICE) agent Jonathan Ross"
+        }
+      ]
+    },
+    {
+      "id": "claim_002",
+      "claim": "Good was shot three times through the windshield of her Honda Pilot SUV",
+      "sourceType": "firsthand",
+      "attribution": "Video evidence analyzed by multiple outlets",
+      "sourceIds": ["src_030", "src_020"],
+      "primarySourceUrl": null,
+      "verificationStatus": "verified",
+      "contradictingClaimIds": [],
+      "context": "Timing analysis: first to second shot 399ms, second to third 299ms",
+      "extractedFrom": [
+        {
+          "sourceId": "src_030",
+          "quote": "Federal agent pulls gun; fires through front windshield at Good"
+        }
+      ]
+    },
+    {
+      "id": "claim_003",
+      "claim": "Good was a mother of three children (ages 15, 12, and 6) and lived with her wife",
+      "sourceType": "firsthand",
+      "attribution": "Family statements, obituary information",
+      "sourceIds": ["src_001", "src_031"],
+      "primarySourceUrl": null,
+      "verificationStatus": "verified",
+      "contradictingClaimIds": [],
+      "context": "Had just dropped her 6-year-old son at school before the incident",
+      "extractedFrom": [
+        {
+          "sourceId": "src_001",
+          "quote": "Good leaves behind her 15-year-old daughter and two sons, aged 12 and six"
+        }
+      ]
+    },
+    {
+      "id": "claim_004",
+      "claim": "Good 'weaponized her vehicle' and attempted to ram ICE officers in an 'act of domestic terrorism'",
+      "sourceType": "official_statement",
+      "attribution": "DHS Secretary Kristi Noem, DHS official statement",
+      "sourceIds": ["src_007", "src_009"],
+      "primarySourceUrl": "https://www.dhs.gov",
+      "verificationStatus": "disputed",
+      "contradictingClaimIds": ["claim_005", "claim_006"],
+      "context": "Official federal government position issued within hours of shooting",
+      "extractedFrom": [
+        {
+          "sourceId": "src_007",
+          "quote": "DHS spokeswoman Tricia McLaughlin claimed that Good was targeting agents when she was killed, alleging she had 'weaponized' her vehicle"
+        }
+      ]
+    },
+    {
+      "id": "claim_005",
+      "claim": "Video shows Good's vehicle wheels turned AWAY from the officer at the moment shots were fired",
+      "sourceType": "firsthand",
+      "attribution": "NBC News video analysis, ABC News metadata analysis",
+      "sourceIds": ["src_029", "src_030"],
+      "primarySourceUrl": null,
+      "verificationStatus": "verified",
+      "contradictingClaimIds": ["claim_004"],
+      "context": "Multiple independent video analyses reached same conclusion",
+      "extractedFrom": [
+        {
+          "sourceId": "src_030",
+          "quote": "Good could be seen turning her vehicle's steering wheel to the right, away from the agent, just over one second before the first shot"
+        },
+        {
+          "sourceId": "src_029",
+          "quote": "When the officer fired his weapon, his legs appear to be clear of the car and its wheels are directed away from him"
+        }
+      ]
+    },
+    {
+      "id": "claim_006",
+      "claim": "The ICE officer was not struck by the vehicle and walked away unassisted after the shooting",
+      "sourceType": "firsthand",
+      "attribution": "Video evidence",
+      "sourceIds": ["src_029"],
+      "primarySourceUrl": null,
+      "verificationStatus": "verified",
+      "contradictingClaimIds": ["claim_007"],
+      "context": "Officer was later treated and released from hospital",
+      "extractedFrom": [
+        {
+          "sourceId": "src_029",
+          "quote": "The officer walked away unassisted after the incident; later treated and released from hospital"
+        }
+      ]
+    },
+    {
+      "id": "claim_007",
+      "claim": "Good 'violently, willfully, and viciously ran over the ICE Officer' and it is 'hard to believe he is alive'",
+      "sourceType": "official_statement",
+      "attribution": "President Donald Trump",
+      "sourceIds": ["src_026", "src_028"],
+      "primarySourceUrl": null,
+      "verificationStatus": "disputed",
+      "contradictingClaimIds": ["claim_005", "claim_006"],
+      "context": "Statement made in Oval Office interview with New York Times",
+      "extractedFrom": [
+        {
+          "sourceId": "src_026",
+          "quote": "Trump stated that Good 'violently, willfully, and viciously ran over the ICE Officer, who seems to have shot her in self defense'"
+        }
+      ]
+    },
+    {
+      "id": "claim_008",
+      "claim": "The DHS account of the shooting is 'bulls***' and 'garbage'",
+      "sourceType": "official_statement",
+      "attribution": "Minneapolis Mayor Jacob Frey",
+      "sourceIds": ["src_003", "src_006"],
+      "primarySourceUrl": null,
+      "verificationStatus": "single_source",
+      "contradictingClaimIds": [],
+      "context": "Mayor's characterization of federal government's account",
+      "extractedFrom": [
+        {
+          "sourceId": "src_003",
+          "quote": "Minneapolis Mayor Jacob Frey called that assertion 'bulls***' and 'garbage', pointing to bystander videos"
+        }
+      ]
+    },
+    {
+      "id": "claim_009",
+      "claim": "The ICE agent was filming with his cellphone in one hand while holding his gun in the other",
+      "sourceType": "firsthand",
+      "attribution": "Video evidence - agent's own recording",
+      "sourceIds": ["src_019", "src_020"],
+      "primarySourceUrl": null,
+      "verificationStatus": "verified",
+      "contradictingClaimIds": [],
+      "context": "Video released by Alpha News, reposted by DHS",
+      "extractedFrom": [
+        {
+          "sourceId": "src_019",
+          "quote": "Now that we can see he's holding a gun in one hand and a cellphone in the other filming, I want to see the officer training that permits that"
+        }
+      ]
+    },
+    {
+      "id": "claim_010",
+      "claim": "A bystander physician was blocked from checking Good's pulse by ICE agents for approximately 5 minutes after shooting",
+      "sourceType": "firsthand",
+      "attribution": "Video footage",
+      "sourceIds": ["src_030"],
+      "primarySourceUrl": null,
+      "verificationStatus": "verified",
+      "contradictingClaimIds": [],
+      "context": "Agents stated they had own medics and EMS en route",
+      "extractedFrom": [
+        {
+          "sourceId": "src_030",
+          "quote": "Bystander identified as physician attempts to check pulse; ICE agents refuse, stating they have own medics and EMS en route"
+        }
+      ]
+    },
+    {
+      "id": "claim_011",
+      "claim": "Good was NOT the target of the ICE enforcement operation",
+      "sourceType": "official_statement",
+      "attribution": "Multiple news reports indicating Good was a bystander",
+      "sourceIds": ["src_001", "src_003"],
+      "primarySourceUrl": null,
+      "verificationStatus": "verified",
+      "contradictingClaimIds": [],
+      "context": "Good was a US citizen who had just dropped her son at school; no immigration case against her",
+      "extractedFrom": [
+        {
+          "sourceId": "src_001",
+          "quote": "Good had just dropped off her six-year-old son at school and was driving home with her current partner when they encountered a group of ICE agents"
+        }
+      ]
+    },
+    {
+      "id": "claim_012",
+      "claim": "Operation Metro Surge is the 'largest immigration operation ever' with approximately 2,000 agents deployed",
+      "sourceType": "official_statement",
+      "attribution": "ICE Acting Director Todd Lyons, DHS",
+      "sourceIds": ["src_013", "src_009"],
+      "primarySourceUrl": "https://www.dhs.gov",
+      "verificationStatus": "single_source",
+      "contradictingClaimIds": [],
+      "context": "Operation launched December 1, 2025",
+      "extractedFrom": [
+        {
+          "sourceId": "src_013",
+          "quote": "ICE Acting Director Todd Lyons described it as the agency's 'largest immigration operation ever'"
+        }
+      ]
+    },
+    {
+      "id": "claim_013",
+      "claim": "Over 2,000 arrests made since Operation Metro Surge began in December 2025",
+      "sourceType": "official_statement",
+      "attribution": "DHS",
+      "sourceIds": ["src_013", "src_034"],
+      "primarySourceUrl": "https://www.dhs.gov",
+      "verificationStatus": "single_source",
+      "contradictingClaimIds": [],
+      "context": "Number increased from 1,500 to 2,000+ within three days",
+      "extractedFrom": [
+        {
+          "sourceId": "src_013",
+          "quote": "DHS has made more than 2,000 arrests since its 'Operation Metro Surge' began in Minnesota"
+        }
+      ]
+    },
+    {
+      "id": "claim_014",
+      "claim": "The FBI took sole control of the shooting investigation, blocking Minnesota BCA from access to evidence",
+      "sourceType": "official_statement",
+      "attribution": "Minnesota BCA official statement",
+      "sourceIds": ["src_004", "src_023"],
+      "primarySourceUrl": "https://dps.mn.gov",
+      "verificationStatus": "verified",
+      "contradictingClaimIds": [],
+      "context": "Initial joint investigation agreement was reversed same afternoon",
+      "extractedFrom": [
+        {
+          "sourceId": "src_004",
+          "quote": "The investigation would now be led solely by the FBI, and the BCA would no longer have access to the case materials, scene evidence or investigative interviews"
+        }
+      ]
+    },
+    {
+      "id": "claim_015",
+      "claim": "A joint BCA-FBI investigation was initially agreed to on January 7 morning, then reversed by US Attorney's Office that afternoon",
+      "sourceType": "official_statement",
+      "attribution": "Minnesota BCA",
+      "sourceIds": ["src_004"],
+      "primarySourceUrl": "https://dps.mn.gov",
+      "verificationStatus": "verified",
+      "contradictingClaimIds": [],
+      "context": "Reversal occurred within hours of incident",
+      "extractedFrom": [
+        {
+          "sourceId": "src_004",
+          "quote": "January 7 Afternoon: The U.S. Attorney's Office reversed course"
+        }
+      ]
+    },
+    {
+      "id": "claim_016",
+      "claim": "Good's death was a 'tragedy of her own making'",
+      "sourceType": "official_statement",
+      "attribution": "Vice President JD Vance",
+      "sourceIds": ["src_035"],
+      "primarySourceUrl": null,
+      "verificationStatus": "single_source",
+      "contradictingClaimIds": [],
+      "context": "Vance alleged she 'aimed her car at a law enforcement officer'",
+      "extractedFrom": [
+        {
+          "sourceId": "src_035",
+          "quote": "Vice President JD Vance called Good's death a 'tragedy of her own making'"
+        }
+      ]
+    },
+    {
+      "id": "claim_017",
+      "claim": "Minneapolis and St. Paul are sanctuary cities with policies limiting cooperation with federal immigration enforcement",
+      "sourceType": "official_statement",
+      "attribution": "City policies, multiple news sources",
+      "sourceIds": ["src_014", "src_033"],
+      "primarySourceUrl": null,
+      "verificationStatus": "verified",
+      "contradictingClaimIds": [],
+      "context": "12 Minnesota counties including Hennepin and Ramsey have similar policies",
+      "extractedFrom": [
+        {
+          "sourceId": "src_014",
+          "quote": "Both Minneapolis and St. Paul are sanctuary cities, meaning their local police do not question residents' immigration status"
+        }
+      ]
+    },
+    {
+      "id": "claim_018",
+      "claim": "58% of Somalis in Minnesota were born in the US; of foreign-born Somalis, 87% are naturalized citizens",
+      "sourceType": "expert",
+      "attribution": "Demographic data cited in CNN coverage",
+      "sourceIds": ["src_033"],
+      "primarySourceUrl": null,
+      "verificationStatus": "single_source",
+      "contradictingClaimIds": [],
+      "context": "Relevant to characterization of operation as targeting 'the Somali community'",
+      "extractedFrom": [
+        {
+          "sourceId": "src_033",
+          "quote": "Nearly 58% of Somalis in Minnesota were born in the US. Of the foreign-born Somalis in Minnesota, an overwhelming majority — 87% — are naturalized US citizens"
+        }
+      ]
+    },
+    {
+      "id": "claim_019",
+      "claim": "Susan Tincher, 55, US citizen, was arrested while observing ICE operations in north Minneapolis",
+      "sourceType": "firsthand",
+      "attribution": "MPR News reporting, witness accounts",
+      "sourceIds": ["src_010"],
+      "primarySourceUrl": null,
+      "verificationStatus": "verified",
+      "contradictingClaimIds": [],
+      "context": "First known observer arrest during surge operation",
+      "extractedFrom": [
+        {
+          "sourceId": "src_010",
+          "quote": "Susan Tincher, a 55-year-old American citizen, appears to be the first observer arrested by federal immigration enforcement officers"
+        }
+      ]
+    },
+    {
+      "id": "claim_020",
+      "claim": "The operation was prompted by fraud investigations involving federal nutrition and pandemic aid programs",
+      "sourceType": "official_statement",
+      "attribution": "DHS, Trump administration",
+      "sourceIds": ["src_013"],
+      "primarySourceUrl": null,
+      "verificationStatus": "single_source",
+      "contradictingClaimIds": [],
+      "context": "HSI agents investigating 'fraud, human smuggling and unlawful employment practices'",
+      "extractedFrom": [
+        {
+          "sourceId": "src_013",
+          "quote": "The operation focused on investigating allegations involving federal nutrition and pandemic aid programs"
+        }
+      ]
+    },
+    {
+      "id": "claim_021",
+      "claim": "Governor Tim Walz called the operation 'a war that's being waged against Minnesota'",
+      "sourceType": "official_statement",
+      "attribution": "Minnesota Governor Tim Walz",
+      "sourceIds": ["src_013", "src_011"],
+      "primarySourceUrl": null,
+      "verificationStatus": "verified",
+      "contradictingClaimIds": [],
+      "context": "Walz criticized operation as lacking coordination with state",
+      "extractedFrom": [
+        {
+          "sourceId": "src_013",
+          "quote": "Minnesota Governor Tim Walz, a Democrat, criticized the operation as 'a war that's being waged against Minnesota'"
+        }
+      ]
+    },
+    {
+      "id": "claim_022",
+      "claim": "Good was described as 'disorderly, obstructing and resisting' and a potential 'professional agitator'",
+      "sourceType": "official_statement",
+      "attribution": "President Donald Trump",
+      "sourceIds": ["src_026"],
+      "primarySourceUrl": null,
+      "verificationStatus": "single_source",
+      "contradictingClaimIds": ["claim_011"],
+      "context": "Characterization contradicted by family descriptions and fact she was returning from school drop-off",
+      "extractedFrom": [
+        {
+          "sourceId": "src_026",
+          "quote": "Trump asserted that Good 'was very disorderly, obstructing and resisting' and suggested she was a potential 'professional agitator'"
+        }
+      ]
+    },
+    {
+      "id": "claim_023",
+      "claim": "Hennepin County Attorney Mary Moriarty stated Minnesota prosecutors have jurisdiction over the case",
+      "sourceType": "official_statement",
+      "attribution": "Hennepin County Attorney Mary Moriarty",
+      "sourceIds": ["src_024"],
+      "primarySourceUrl": null,
+      "verificationStatus": "single_source",
+      "contradictingClaimIds": ["claim_024"],
+      "context": "Moriarty acknowledged 'complex legal issues' but maintained state has authority",
+      "extractedFrom": [
+        {
+          "sourceId": "src_024",
+          "quote": "We do have jurisdiction to make the decision with what happened in this case. It does not matter that it was a federal law enforcement agent"
+        }
+      ]
+    },
+    {
+      "id": "claim_024",
+      "claim": "DHS Secretary Noem stated Minnesota authorities 'don't have any jurisdiction in this investigation'",
+      "sourceType": "official_statement",
+      "attribution": "DHS Secretary Kristi Noem",
+      "sourceIds": ["src_022"],
+      "primarySourceUrl": null,
+      "verificationStatus": "single_source",
+      "contradictingClaimIds": ["claim_023"],
+      "context": "Federal position on jurisdiction authority",
+      "extractedFrom": [
+        {
+          "sourceId": "src_022",
+          "quote": "Minnesota authorities 'don't have any jurisdiction in this investigation'"
+        }
+      ]
+    },
+    {
+      "id": "claim_025",
+      "claim": "Community activists used whistle-blowing to alert neighbors to ICE presence",
+      "sourceType": "firsthand",
+      "attribution": "Video footage, news reporting",
+      "sourceIds": ["src_003", "src_011"],
+      "primarySourceUrl": null,
+      "verificationStatus": "verified",
+      "contradictingClaimIds": [],
+      "context": "Established community response tactic in sanctuary city",
+      "extractedFrom": [
+        {
+          "sourceId": "src_003",
+          "quote": "Whistle blasts pierced the early January chill in a now-familiar community response employed by activists to alert neighbors"
+        }
+      ]
+    },
+    {
+      "id": "claim_026",
+      "claim": "ICE agents did not wear body cameras during the operation - Minneapolis was not in first phase of body camera implementation",
+      "sourceType": "official_statement",
+      "attribution": "DHS, Fox 9 reporting",
+      "sourceIds": ["src_021"],
+      "primarySourceUrl": null,
+      "verificationStatus": "verified",
+      "contradictingClaimIds": [],
+      "context": "Body camera program began in select cities in 2024, not including Minneapolis",
+      "extractedFrom": [
+        {
+          "sourceId": "src_021",
+          "quote": "ICE started issuing body-worn cameras to agents in select cities in 2024. Minneapolis was not one of the cities in the first phase"
+        }
+      ]
+    },
+    {
+      "id": "claim_027",
+      "claim": "The shooting occurred 7 seconds after initial contact, with Good's vehicle approximately 140 feet from crash site",
+      "sourceType": "firsthand",
+      "attribution": "Video analysis by ABC News, NBC News",
+      "sourceIds": ["src_030", "src_029"],
+      "primarySourceUrl": null,
+      "verificationStatus": "verified",
+      "contradictingClaimIds": [],
+      "context": "Timeline reconstructed from multiple video angles",
+      "extractedFrom": [
+        {
+          "sourceId": "src_029",
+          "quote": "The encounter lasted approximately seven seconds... the driver lost control and crashed 140 feet away"
+        }
+      ]
+    }
+  ],
+  "contestedTopics": [
+    "Whether Good deliberately attempted to strike ICE officers or was attempting to flee",
+    "Whether the shooting was justified self-defense or unjustified use of lethal force",
+    "Whether federal or state authorities have jurisdiction over the investigation",
+    "Whether Good was an 'agitator' or an uninvolved bystander",
+    "Whether the ICE agent was 'run over' or positioned himself in front of the vehicle",
+    "Characterization of community resistance as 'domestic terrorism' vs legitimate protest"
+  ]
+}

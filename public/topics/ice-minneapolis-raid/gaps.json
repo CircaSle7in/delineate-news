@@ -1,0 +1,104 @@
+{
+  "topic": "ice-minneapolis-raid",
+  "identifiedAt": "2025-01-12",
+  "gaps": [
+    {
+      "id": "gap_001",
+      "category": "missing_stakeholder",
+      "description": "Good's children and extended family perspective beyond brief statements",
+      "whyItMatters": "Three children lost their mother. Their experience, needs, and voices are largely absent from coverage focused on political conflict. How are they being supported? What do they understand about what happened?",
+      "whoWouldCare": "Anyone concerned with the human cost of this incident beyond the political battle. Parents. Child welfare advocates.",
+      "possibleReasons": "Appropriate privacy protections for minors; family may not want media attention; media more focused on political conflict than human impact"
+    },
+    {
+      "id": "gap_002",
+      "category": "missing_stakeholder",
+      "description": "The ICE agents involved — their training, experience, mental state, perspective",
+      "whyItMatters": "Understanding the officer's decision-making process, training, and state of mind is essential to evaluating the shooting. Was this a split-second panic decision? Consistent with training? What is agent Jonathan Ross's background?",
+      "whoWouldCare": "Anyone trying to understand whether this was a systemic failure or individual error. Law enforcement trainers. Policy makers.",
+      "possibleReasons": "FBI investigation ongoing; federal policy to protect agent identities; adversarial political environment makes federal side unlikely to humanize agents"
+    },
+    {
+      "id": "gap_003",
+      "category": "missing_stakeholder",
+      "description": "Somali-American community members who are US citizens caught up in the operation",
+      "whyItMatters": "The operation targets a specific community where 87% of foreign-born members are naturalized citizens and 58% are US-born. What is their experience? Have US citizens been wrongly detained? How is daily life affected?",
+      "whoWouldCare": "Civil rights advocates. Somali-American community. Anyone concerned about targeting of ethnic communities.",
+      "possibleReasons": "Fear of retaliation may suppress voices; coverage focused on dramatic incidents rather than daily impact; language/cultural barriers to mainstream media access"
+    },
+    {
+      "id": "gap_004",
+      "category": "historical_context",
+      "description": "History of federal-state jurisdiction conflicts in police shootings",
+      "whyItMatters": "Is the FBI seizing control of this investigation truly 'unprecedented' as claimed? What are the legal precedents? How have similar conflicts been resolved?",
+      "whoWouldCare": "Legal scholars. Anyone trying to evaluate claims about jurisdiction. Policy makers concerned about accountability structures.",
+      "possibleReasons": "Requires legal expertise to explain; doesn't fit simple narrative frames; time-consuming research vs. breaking news pressure"
+    },
+    {
+      "id": "gap_005",
+      "category": "missing_data",
+      "description": "Specific fraud cases that allegedly prompted Operation Metro Surge",
+      "whyItMatters": "The operation's stated justification is fraud involving 'federal nutrition and pandemic aid programs.' What are the specific cases? Who has been charged? What is the scale? Is the 2,000-agent deployment proportional to the fraud evidence?",
+      "whoWouldCare": "Anyone evaluating whether operation is legitimate law enforcement or pretextual targeting. Fiscal conservatives concerned about fraud. Civil libertarians concerned about proportionality.",
+      "possibleReasons": "Ongoing investigations may limit what can be disclosed; media focus on shooting overshadowed fraud context; DHS may benefit from keeping justification vague"
+    },
+    {
+      "id": "gap_006",
+      "category": "second_order_effect",
+      "description": "Impact on cooperation between immigrant communities and local law enforcement",
+      "whyItMatters": "If immigrants fear any contact with law enforcement may lead to deportation, they may not report crimes, serve as witnesses, or seek help. This affects public safety for everyone.",
+      "whoWouldCare": "Local police departments. Crime victims in immigrant communities. Prosecutors who rely on witness cooperation.",
+      "possibleReasons": "Long-term effects harder to report than immediate events; requires following up weeks/months later; doesn't fit breaking news cycle"
+    },
+    {
+      "id": "gap_007",
+      "category": "second_order_effect",
+      "description": "Economic impact on Minneapolis businesses and community",
+      "whyItMatters": "Large-scale law enforcement presence, protests, and community fear likely affect local businesses, schools, workplaces. What is the economic disruption?",
+      "whoWouldCare": "Local business owners. Employers who rely on immigrant workforce. Economic development officials.",
+      "possibleReasons": "Takes time to measure; less dramatic than political conflict; requires local economic reporting"
+    },
+    {
+      "id": "gap_008",
+      "category": "false_certainty",
+      "description": "Whether Good's blocking of the road was intentional protest or routine traffic situation",
+      "whyItMatters": "Federal narrative frames her as 'professional agitator.' Family narrative frames her as mom returning from school. Video shows her stopped perpendicular but doesn't establish her intent or how long she'd been there.",
+      "whoWouldCare": "Anyone trying to understand what actually happened. Both sides claim certainty about her intent that evidence doesn't support.",
+      "possibleReasons": "Ambiguity doesn't serve either political narrative; certainty makes for stronger headlines"
+    },
+    {
+      "id": "gap_009",
+      "category": "alternative_frame",
+      "description": "Use-of-force policy analysis independent of politics",
+      "whyItMatters": "Law enforcement experts could evaluate whether the shooting followed standard use-of-force protocols, independent of whether one supports or opposes the immigration operation. Was drawing a weapon appropriate? Was filming appropriate? Was positioning in front of vehicle appropriate?",
+      "whoWouldCare": "Police trainers. Policy reformers. Law enforcement agencies developing protocols.",
+      "possibleReasons": "Expert analysis quoted briefly but rarely given sustained attention; doesn't fit partisan narrative; nuance is harder to report than conflict"
+    },
+    {
+      "id": "gap_010",
+      "category": "missing_stakeholder",
+      "description": "Non-Somali immigrants in Minneapolis affected by operation",
+      "whyItMatters": "The 12 arrests detailed in DHS releases include 6 from Mexico, 1 from El Salvador. What is the experience of Latino and other immigrant communities during this operation?",
+      "whoWouldCare": "Latino community members. Immigration advocates beyond Somali-focused organizations. Anyone interested in full scope of operation.",
+      "possibleReasons": "Political focus on Somali fraud narrative; smaller Latino community in Minneapolis; media outlets may have stronger Somali community connections"
+    },
+    {
+      "id": "gap_011",
+      "category": "historical_context",
+      "description": "Comparison to previous large-scale immigration enforcement operations",
+      "whyItMatters": "DHS calls this 'the largest immigration operation ever.' How does it actually compare to previous operations? What were outcomes of similar operations?",
+      "whoWouldCare": "Immigration historians. Policy analysts. Anyone evaluating whether this approach is effective.",
+      "possibleReasons": "Requires historical research; DHS has interest in superlative framing; media often takes 'unprecedented' claims at face value"
+    },
+    {
+      "id": "gap_012",
+      "category": "missing_data",
+      "description": "Breakdown of 2,000+ arrests by immigration status, criminal history, and outcome",
+      "whyItMatters": "DHS highlights 'worst of the worst' criminals but doesn't provide breakdown of all arrests. How many of the 2,000+ had criminal records? How many were released? How many deported? How many are US citizens mistakenly detained?",
+      "whoWouldCare": "Anyone evaluating effectiveness and fairness of operation. Criminal justice researchers. Immigration attorneys.",
+      "possibleReasons": "DHS selectively releases information favorable to its narrative; full data may show less favorable picture; operational security claims"
+    }
+  ],
+  "humanReviewed": false,
+  "reviewNotes": "Initial gap identification. Would benefit from Sterling's review to prioritize which gaps are most significant and whether additional perspectives should be sought."
+}

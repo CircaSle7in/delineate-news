@@ -1,0 +1,206 @@
+{
+  "topic": "ice-minneapolis-raid",
+  "analyzedAt": "2025-01-12",
+  "perspectives": [
+    {
+      "id": "perspective_federal",
+      "label": "Federal Administration / Law Enforcement",
+      "coreFraming": "The shooting was a justified act of self-defense by an ICE officer facing a violent attack. Good weaponized her vehicle against law enforcement officers conducting legitimate operations. The broader operation is targeting dangerous criminals who have been protected by sanctuary policies.",
+      "keyEmphases": [
+        "Good 'weaponized' her vehicle and committed an 'act of domestic terrorism'",
+        "Officer acted in self-defense after being struck/nearly struck",
+        "Operation Metro Surge is arresting 'the worst of the worst' - murderers, rapists, pedophiles",
+        "Sanctuary city policies have enabled criminals to evade justice",
+        "Community resistance/protests are endangering law enforcement",
+        "The 'Radical Left' is responsible for creating dangerous conditions"
+      ],
+      "minimizedAspects": [
+        "Good was a US citizen and not an immigration enforcement target",
+        "Video evidence showing wheels turned away from officer",
+        "Officer walked away unassisted (contradicts 'nearly killed' claims)",
+        "Agent was filming with phone while holding weapon",
+        "Demographics showing majority of MN Somalis are US-born or naturalized citizens",
+        "Arrest of US citizen observers"
+      ],
+      "emotionalTone": "Defensive, combative, victimizing law enforcement",
+      "loadedLanguage": [
+        "domestic terrorism",
+        "weaponized vehicle",
+        "worst of the worst",
+        "criminal illegal aliens",
+        "Radical Left",
+        "sanctuary politicians",
+        "professional agitator"
+      ],
+      "impliedNarrative": "Brave federal officers are fighting to restore law and order against both violent criminals and their political enablers. Anyone who interferes is complicit in protecting dangerous people.",
+      "representativeQuotes": [
+        {
+          "quote": "An ICE officer, fearing for his life, the lives of his fellow law enforcement and the safety of the public, fired defensive shots.",
+          "outlet": "DHS Official Statement",
+          "sourceId": "src_007"
+        },
+        {
+          "quote": "The woman driving the car was very disorderly, obstructing and resisting, who then violently, willfully, and viciously ran over the ICE Officer, who seems to have shot her in self defense.",
+          "outlet": "President Trump statement",
+          "sourceId": "src_026"
+        },
+        {
+          "quote": "To the violent rioters and sanctuary politicians: You will not stop us.",
+          "outlet": "DHS social media",
+          "sourceId": "src_014"
+        }
+      ],
+      "representativeOutlets": ["DHS Official", "ICE Official", "Fox News", "Police1"]
+    },
+    {
+      "id": "perspective_progressive",
+      "label": "Progressive / Civil Rights",
+      "coreFraming": "An ICE agent killed an unarmed US citizen mother who posed no threat, then the federal government seized control of the investigation to prevent accountability. This is part of a broader pattern of militarized immigration enforcement terrorizing communities.",
+      "keyEmphases": [
+        "Good was an unarmed US citizen, mother of three, returning from school drop-off",
+        "Video evidence contradicts federal claims about the shooting",
+        "FBI blocked state investigation to prevent accountability",
+        "Operation is terrorizing immigrant communities, including US citizens",
+        "Pattern of excessive force and civil rights violations",
+        "Arrests of observers exercising First Amendment rights"
+      ],
+      "minimizedAspects": [
+        "Criminal backgrounds of some individuals arrested in operation",
+        "Fraud investigations that prompted the operation",
+        "Good's vehicle was blocking the road and she was warned to move",
+        "Legitimate law enforcement interest in enforcing immigration law",
+        "Concerns about agent safety amid protests"
+      ],
+      "emotionalTone": "Outraged, grieving, accusatory",
+      "loadedLanguage": [
+        "killed",
+        "murdered",
+        "terrorizing",
+        "reckless",
+        "militarized",
+        "cover-up",
+        "war on Minnesota"
+      ],
+      "impliedNarrative": "The federal government is using immigration enforcement as a weapon against communities, killing innocent people, and then covering it up. This is state violence with impunity.",
+      "representativeQuotes": [
+        {
+          "quote": "This is bulls***. This is garbage.",
+          "outlet": "Mayor Jacob Frey on DHS self-defense claim",
+          "sourceId": "src_003"
+        },
+        {
+          "quote": "This is a war that's being waged against Minnesota.",
+          "outlet": "Governor Tim Walz",
+          "sourceId": "src_013"
+        },
+        {
+          "quote": "If you are an officer who views this woman as a threat, you don't have one hand on a cellphone. You don't walk around this supposed weapon, casually filming.",
+          "outlet": "Prof. John P. Gross, UW Law School",
+          "sourceId": "src_019"
+        }
+      ],
+      "representativeOutlets": ["ACLU", "CNN", "Minnesota Reformer", "Al Jazeera"]
+    },
+    {
+      "id": "perspective_local_institutional",
+      "label": "Local / State Institutional",
+      "coreFraming": "Federal authorities are conducting an unprecedented operation without coordination with state and local officials, seizing control of an investigation that should involve local oversight, and making claims that video evidence does not support.",
+      "keyEmphases": [
+        "Lack of coordination between federal and state/local authorities",
+        "Jurisdictional dispute over investigation",
+        "Video evidence vs. official federal statements",
+        "Established sanctuary city policies being overridden",
+        "Need for independent investigation with local involvement",
+        "Protecting community trust in local institutions"
+      ],
+      "minimizedAspects": [
+        "Federal government's constitutional authority over immigration",
+        "Crimes committed by some individuals arrested",
+        "Legitimate federal interest in fraud investigation",
+        "National security and border enforcement considerations"
+      ],
+      "emotionalTone": "Frustrated, concerned, protective of local authority",
+      "loadedLanguage": [
+        "reversed course",
+        "blocked access",
+        "denied cooperation",
+        "complex legal issues",
+        "unprecedented"
+      ],
+      "impliedNarrative": "Federal authorities are overstepping, making unsubstantiated claims, and blocking the normal oversight processes that ensure accountability. Local officials are trying to protect their communities and constitutional processes.",
+      "representativeQuotes": [
+        {
+          "quote": "Without complete access to the evidence, witnesses and information collected, we cannot meet the investigative standards that Minnesota law and the public demands.",
+          "outlet": "BCA Superintendent Drew Evans",
+          "sourceId": "src_004"
+        },
+        {
+          "quote": "We do have jurisdiction to make the decision with what happened in this case. It does not matter that it was a federal law enforcement agent.",
+          "outlet": "Hennepin County Attorney Mary Moriarty",
+          "sourceId": "src_024"
+        },
+        {
+          "quote": "It feels very, very difficult that we will get a fair outcome.",
+          "outlet": "Governor Tim Walz",
+          "sourceId": "src_023"
+        }
+      ],
+      "representativeOutlets": ["Star Tribune", "MPR News", "Fox 9 Minneapolis", "Minnesota BCA"]
+    },
+    {
+      "id": "perspective_factual_analytical",
+      "label": "Factual / Investigative",
+      "coreFraming": "Multiple video sources allow reconstruction of what happened. Key claims from federal officials are contradicted by video evidence. The investigation jurisdiction dispute is unusual and raises accountability concerns.",
+      "keyEmphases": [
+        "Minute-by-minute timeline from video evidence",
+        "Comparison of official claims to video footage",
+        "Technical analysis (shot timing, vehicle direction, officer position)",
+        "Unusual nature of FBI excluding state from investigation",
+        "Documentation of what is known vs. unknown",
+        "Legal questions about prosecution possibilities"
+      ],
+      "minimizedAspects": [
+        "Emotional framing from either side",
+        "Broader political context",
+        "Takes no position on policy questions"
+      ],
+      "emotionalTone": "Neutral, analytical, evidence-focused",
+      "loadedLanguage": [],
+      "impliedNarrative": "The facts are knowable. Video evidence exists. The question is what conclusions can be drawn from that evidence.",
+      "representativeQuotes": [
+        {
+          "quote": "Good could be seen turning her vehicle's steering wheel to the right, away from the agent, just over one second before the first shot.",
+          "outlet": "ABC News video analysis",
+          "sourceId": "src_030"
+        },
+        {
+          "quote": "When the officer fired his weapon, his legs appear to be clear of the car and its wheels are directed away from him.",
+          "outlet": "NBC News investigation",
+          "sourceId": "src_029"
+        },
+        {
+          "quote": "First to second shot: 399 milliseconds. Second to third shot: 299 milliseconds.",
+          "outlet": "ABC News metadata analysis",
+          "sourceId": "src_030"
+        }
+      ],
+      "representativeOutlets": ["ABC News", "Washington Post Investigations", "PBS News", "The Hill"]
+    }
+  ],
+  "crossCuttingTensions": [
+    "Was the shooting justified self-defense or unjustified lethal force?",
+    "Does the federal government have legitimate authority to exclude state officials from the investigation?",
+    "Are sanctuary city policies protecting communities or harboring criminals?",
+    "Is community resistance legitimate protest or obstruction of law enforcement?",
+    "Should video evidence or official statements be given more weight?",
+    "Is Operation Metro Surge legitimate law enforcement or political targeting?"
+  ],
+  "sharedGround": [
+    "A woman was killed - all parties acknowledge this as serious",
+    "Multiple videos of the incident exist",
+    "The victim was a US citizen",
+    "Federal-state relations are strained",
+    "This incident has national significance",
+    "The operation involves significant federal resources"
+  ]
+}

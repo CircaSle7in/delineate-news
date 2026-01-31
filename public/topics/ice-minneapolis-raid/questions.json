@@ -1,0 +1,48 @@
+{
+  "topic": "ice-minneapolis-raid",
+  "generatedAt": "2025-01-12",
+  "questions": [
+    {
+      "id": "q_001",
+      "question": "If multiple video angles show Good's wheels turned away from the officer when he fired, what would justify the 'self-defense' characterization? Conversely, what additional context might exist that the videos don't capture?",
+      "derivedFrom": ["claim_004", "claim_005", "gap_008"],
+      "questionType": "evidence"
+    },
+    {
+      "id": "q_002",
+      "question": "The FBI took sole control of the investigation within hours, blocking state access to evidence. What conditions would need to be true for you to trust the outcome of a federal-only investigation? What would it take for you to believe state involvement would compromise the investigation?",
+      "derivedFrom": ["claim_014", "claim_015", "gap_004"],
+      "questionType": "evidence"
+    },
+    {
+      "id": "q_003",
+      "question": "If 87% of foreign-born Somalis in Minnesota are naturalized US citizens, and 58% of Minnesota Somalis were born in the US, how should this affect how we think about an operation described as targeting 'the Somali community' for immigration enforcement?",
+      "derivedFrom": ["claim_018", "gap_003"],
+      "questionType": "reconciliation"
+    },
+    {
+      "id": "q_004",
+      "question": "DHS has released details on dozens of 'worst of the worst' arrests but not a breakdown of all 2,000+ arrests. What proportion of arrests being serious criminals would make you consider the operation successful? What proportion of wrongful detentions would make you consider it a failure?",
+      "derivedFrom": ["claim_013", "gap_012"],
+      "questionType": "evidence"
+    },
+    {
+      "id": "q_005",
+      "question": "Good was a US citizen who wasn't the target of the immigration operation. ICE says they're targeting dangerous criminals. How do you weigh the value of removing convicted criminals against the risk of killing uninvolved bystanders? Does your answer change if the bystander's actions contributed to the situation?",
+      "derivedFrom": ["claim_011", "claim_004", "gap_008"],
+      "questionType": "reconciliation"
+    },
+    {
+      "id": "q_006",
+      "question": "Community activists use whistle-blowing to warn neighbors of ICE presence. Law enforcement calls this 'obstruction.' Under what circumstances is community resistance to law enforcement legitimate, and under what circumstances does it cross a line?",
+      "derivedFrom": ["claim_025", "perspective_federal", "perspective_progressive"],
+      "questionType": "reconciliation"
+    },
+    {
+      "id": "q_007",
+      "question": "If immigrant communities become afraid to cooperate with any law enforcement due to this operation, how might that affect local crime rates and public safety over the next several years? Is there evidence from previous enforcement surges about these effects?",
+      "derivedFrom": ["gap_006", "gap_011"],
+      "questionType": "temporal"
+    }
+  ]
+}

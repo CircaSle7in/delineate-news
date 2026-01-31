@@ -1,0 +1,30 @@
+{
+  "slug": "ice-minneapolis-raid",
+  "title": "ICE Raid in Minneapolis: A Multi-Perspective Analysis",
+  "subtitle": "Examining the facts, framing, and gaps in coverage of the January 2025 enforcement action",
+  "dateRange": {
+    "start": "2025-01-01",
+    "end": "2025-01-12"
+  },
+  "status": "published",
+  "stages": {
+    "sourceCollection": "complete",
+    "claimExtraction": "complete",
+    "perspectiveMapping": "complete",
+    "gapAnalysis": "complete",
+    "questionGeneration": "complete",
+    "published": true
+  },
+  "createdAt": "2025-01-12",
+  "updatedAt": "2025-01-12",
+  "keywords": [
+    "ICE",
+    "immigration enforcement",
+    "Minneapolis",
+    "deportation",
+    "sanctuary city",
+    "Renee Good",
+    "Operation Metro Surge",
+    "police shooting"
+  ]
+}
